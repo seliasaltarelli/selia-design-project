@@ -1,0 +1,18 @@
+*{background-color: rgba(196, 196, 196, 0.802);}
+
+h1 {
+    padding: 20px;
+    border: 5px solid black;
+    width: 250px;
+    position: relative;
+    left: 10x;
+    font-size: 50px;
+}
+
+.p5 {
+    color: black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+   
+    }  
